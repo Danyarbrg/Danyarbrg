@@ -5,7 +5,7 @@
 - 🛟 I'm based in Saint-Petersburg, Russia matushka 
 - 🏆 I'm currently working on my own project
 - 🏁 I'm open to collaborating on interest projects
-- 📱 You can contact me at TG @rayberg39
+- 📱 You can contact me at TG [@rayberg39](https://t.me/rayberg39)
 - 💻 I'm interested in CS, ML, Web developing
 ---
 ## Skils 

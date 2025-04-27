@@ -12,6 +12,9 @@
   <img height="32" width="32" src="https://cdn.simpleicons.org/git"/>
   <img height="32" width="32" src="https://cdn.simpleicons.org/postgresql"/>
   <img height="32" width="32" src="https://cdn.simpleicons.org/go"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/macos"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/linux"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/gnubash"/>
 </span>
 
 

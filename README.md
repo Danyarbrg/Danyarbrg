@@ -7,14 +7,14 @@
 - 💻 I'm interested in CS, ML, Web developing 
 ## Skils 
 <span>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/selenium" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/python" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/git"/>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/postgresql"/>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/go"/>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/apple/white"/>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/linux"/>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/gnubash"/>
+  <img height="48" width="48" src="https://cdn.simpleicons.org/selenium" />
+  <img height="48" width="48" src="https://cdn.simpleicons.org/python" />
+  <img height="48" width="48" src="https://cdn.simpleicons.org/git"/>
+  <img height="48" width="48" src="https://cdn.simpleicons.org/postgresql"/>
+  <img height="48" width="48" src="https://cdn.simpleicons.org/go"/>
+  <img height="48" width="48" src="https://cdn.simpleicons.org/macos/white"/>
+  <img height="48" width="48" src="https://cdn.simpleicons.org/linux"/>
+  <img height="48" width="48" src="https://cdn.simpleicons.org/gnubash"/>
 </span>
 
 

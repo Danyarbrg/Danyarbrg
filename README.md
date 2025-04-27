@@ -15,6 +15,7 @@
   <img height="48" width="48" src="https://cdn.simpleicons.org/macos/white"/>
   <img height="48" width="48" src="https://cdn.simpleicons.org/linux"/>
   <img height="48" width="48" src="https://cdn.simpleicons.org/gnubash"/>
+  <img height="48" width="48" src="https://cdn.simpleicons.org/markdown/red"/>
 </span>
 
 

@@ -6,6 +6,9 @@
 - 📱 You can contact me at TG @rayberg39
 - 💻 I'm interested in CS, ML, Web developing 
 ## Skils 
-<img height="32" width="32" src="https://cdn.simpleicons.org/selenium" /><img height="32" width="32" src="https://cdn.simpleicons.org/python" />
+<span>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/selenium" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/python" />
+</span>
 
 

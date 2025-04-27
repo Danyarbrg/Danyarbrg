@@ -7,6 +7,6 @@
 - 💻 I'm interested in CS, ML, Web developing 
 ## Skils 
 <img height="32" width="32" src="https://cdn.simpleicons.org/selenium" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/selenium/green" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/python" />
 
 

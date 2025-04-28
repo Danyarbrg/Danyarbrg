@@ -6,7 +6,7 @@
 - 🏆 I'm currently working on my own project
 - 🏁 I'm open to collaborating on interest projects
 - 📱 You can contact me at TG [@rayberg39](https://t.me/rayberg39)
-- 💻 I'm interested in CS, ML, Web developing
+- 💻 I'm interested in Computer Sciences, Cyber Security, ML, Web developing
 ---
 ## Skils 
 <span>
